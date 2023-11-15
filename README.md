@@ -66,4 +66,15 @@ This class will be responsible for initializing our Python App.
 
 It will be a file that will work as a database. It will save the movies the user adds in the cookbook.
 
-For each one of those classes I will also implement tests. All tests can be located inside the ```/test``` folder
+#### Tests:
+
+All tests related to this project can be located inside the ```/test``` folder
+
+### Requirements:
+
+To properly run tests and some features you will need to use the following libraries:
+
+- fpdf
+- pytest
+- sys
+- os
