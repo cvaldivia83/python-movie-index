@@ -1,6 +1,3 @@
-
-
-
 ### CS50 Final Project
 
 # MovieIndex
@@ -10,6 +7,8 @@
 [Youtube CS50P's presentation video](https://youtu.be/OsDiAIGcTg0)
 
 #### Description:
+
+This is Harvard's CS50 -  Introduction To Programming With Python final project.
 
 In my final project I will implement a program where the user can favorite his favorite movies. The user can:
 
